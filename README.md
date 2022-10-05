@@ -1,1 +1,1 @@
-Сервис кеширования данных, получаемых из https://qr.nspk.ru/proxyapp/c2bmembers.json
+Сервис кеширования данных, получаемых из https://qr.nspk.ru/proxyapp/source.json
